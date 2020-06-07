@@ -1,0 +1,19 @@
+{
+    "ingredients": [
+        {
+            "name": "tea",
+            "amount": 1,
+            "unit": "pack"
+        },
+        {
+            "name": "water",
+            "amount": 1,
+            "unit": "cup"
+        }
+    ],
+    "instructions": [
+        "put tea in cup",
+        "add water",
+        "drink"
+    ]
+}
