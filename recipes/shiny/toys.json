@@ -1,0 +1,19 @@
+{
+    "ingredients": [
+        {
+            "name": "mouse",
+            "amount": 14,
+            "unit": "gr"
+        },
+        {
+            "name": "soup",
+            "amount": "0.5",
+            "unit": "liter"
+        }
+    ],
+    "instructions": [
+        "chase around",
+        "catch",
+        "EAT!"
+    ]
+}

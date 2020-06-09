@@ -1,0 +1,19 @@
+{
+    "ingredients": [
+        {
+            "name": "guy",
+            "amount": 80,
+            "unit": "Kg"
+        },
+        {
+            "name": "water",
+            "amount": "0.5",
+            "unit": "liter"
+        }
+    ],
+    "instructions": [
+        "bite hard",
+        "until crying",
+        "serve"
+    ]
+}
